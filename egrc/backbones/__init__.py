@@ -1,0 +1,1 @@
+"""Standalone EGRC runtime components."""
